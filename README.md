@@ -2,6 +2,7 @@
 
 <h2>Description</h2>
 Welcome to the first installment of an ongoing series where we explore administrative tasks on Windows Server with a focus on Active Directory. This preliminary project lays the foundation for a series of network configurations and administrative simulations.
+<br />
 This project aims to establish a versatile and dynamic network environment that supports both Windows and Linux clients. By configuring a domain controller with Active Directory Domain Services (AD DS), we will demonstrate the seamless integration of diverse operating systems into a unified domain, facilitating centralized management and streamlined administrative tasks.
 <br />
 
