@@ -9,7 +9,7 @@ Below is the topology of the network that will eventually be created at the end 
 
 <p align="center">
 Topology: <br/>
-<img src="https://imgur.com/KJk3gQO.png" height="80%" width="80%" alt="Topology"/>
+<img src="https://imgur.com/a/FLcgYx9.png" height="80%" width="80%" alt="Topology"/>
 <br /> 
 
 <h2>Key Configurations</h2>
