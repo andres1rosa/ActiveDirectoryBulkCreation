@@ -95,8 +95,12 @@ After restarting you will have to log into our server.
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
 </b>
+<h2> Final Thoughts </h2>
 
-- 
+<p>
+We've successfully configured Active Directory on our domain controller. We established our infrastructure by creating a forest and administrator account. In the upcoming project, we'll be configuring the network services on our domain controller to allow our devices to conect to the internet.</p>
+
+
 
 </p>
 
