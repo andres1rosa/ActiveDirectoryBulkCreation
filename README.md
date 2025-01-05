@@ -1,4 +1,4 @@
-<h1>Active Directory Bulk User Creation</h1>
+<h1>Active Directory Deployment and Configuration</h1>
 
 <h2>Description</h2>
 Welcome to the first installment of an ongoing series where we explore administrative tasks on Windows Server with a focus on Active Directory. This preliminary project lays the foundation for a series of network configurations and administrative simulations.
