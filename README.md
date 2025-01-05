@@ -22,17 +22,15 @@ Topology: <br/>
 
 <h2>Project walk-through:</h2>
 
-<h3>Install AD DS on DC1</h3>
+<h3>Follow the steps below to configure install and configure AD DS:</h3>
 <b>Click Add Roles and Features</b>
-<br /> 
+
 <b>
-<img src="https://imgur.com/Ombvtoh.png" height="50%" width="50%" alt="install AD DS"/
+<img src="https://imgur.com/Ombvtoh.png" height="50%" width="50%" alt="install AD DS"/>
 </b>
+
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
-
-<b>Follow the configurations on the roles and features wizard:</b>
-
 <b>
 <img src="https://imgur.com/D9bqZEn.png" height="50%" width="50%" alt="install AD DS"/>
 <p><strong>.</strong></p>
