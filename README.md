@@ -21,7 +21,6 @@ Topology: <br/>
 <h2>Environments Used </h2>
 
 - <b>Windows Server 2019</b>
-- <b>Windows 10</b> (21H2)
 
 <h2>Project walk-through:</h2>
 
